@@ -63,7 +63,7 @@ fun IsiText(pesan: String, pasangan: String, doa: String, salam: String, admirer
             painter = painterResource(id = R.drawable.sky_7232494_1920),
             contentDescription = "",
             contentScale = ContentScale.Crop,
-            alpha = 0.4F
+            alpha = 0.7F
         )
 
         Column(
