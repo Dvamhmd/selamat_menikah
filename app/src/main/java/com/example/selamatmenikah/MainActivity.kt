@@ -43,7 +43,7 @@ class MainActivity : ComponentActivity() {
                     IsiText(
                         "~Selamat Menikah~",
                         pasangan = "Pusparani &\n       Valentino",
-                        doa = "Semoga keidupan pernikahan\nkalian bahagia & langgeng",
+                        doa = "Semoga kehidupan pernikahan\nkalian bahagia & langgeng",
                         salam = "Salam,",
                         admirer = "Dava",
                     )
@@ -153,7 +153,7 @@ fun GreetingPreview() {
         IsiText(
             "~Selamat Menikah~",
             pasangan = "Pusparani &\n     Valentino",
-            doa = "Semoga keidupan pernikahan\nkalian bahagia & langgeng",
+            doa = "Semoga kehidupan pernikahan\nkalian bahagia & langgeng",
             salam = "Salam,",
             admirer = "Dava",
         )
